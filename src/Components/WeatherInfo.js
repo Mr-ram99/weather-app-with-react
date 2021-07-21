@@ -58,11 +58,11 @@ flex-direction:column;
 padding:5px;
 `;
 const InfoIcons = {
-    sunrise:"/weather-app-with-react/blob/gh-pages/icons/sun.png",
-    sunset:"/weather-app-with-react/blob/gh-pages/icons/sun.png",
-    wind:"/weather-app-with-react/blob/gh-pages/icons/wind.png",
-    pressure:"/weather-app-with-react/blob/gh-pages/icons/pressure.png",
-    humidity:"/weather-app-with-react/blob/gh-pages/icons/humidity.png"
+    sunrise:"/weather-app-with-react/icons/sun.png",
+    sunset:"/weather-app-with-react/icons/sun.png",
+    wind:"/weather-app-with-react/icons/wind.png",
+    pressure:"/weather-app-with-react/icons/pressure.png",
+    humidity:"/weather-app-with-react/icons/humidity.png"
 }
 const BackButton = styled.button`
 width:90%;
