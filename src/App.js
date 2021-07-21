@@ -30,22 +30,22 @@ font-family: 'Varela', sans-serif;
 }
 `;
 export const WeatherIcons = {
-  "01d": "/icons/sunny.svg",
-  "01n": "/icons/night.svg",
-  "02d": "/icons/day.svg",
-  "02n": "/icons/cloudy-night.svg",
-  "03d": "/icons/cloudy.svg",
-  "03n": "/icons/cloudy.svg",
-  "04d": "/icons/perfect-day.svg",
-  "04n": "/icons/cloudy-night.svg",
-  "09d": "/icons/rain.svg",
-  "09n": "/icons/rain-night.svg",
-  "10d": "/icons/rain.svg",
-  "10n": "/icons/rain-night.svg",
-  "11d": "/icons/storm.svg",
-  "11n": "/icons/storm.svg",
-  "50n": "/icons/haze.png",
-  "50d": "/icons/haze.png"
+  "01d": "/weather-app-with-react/icons/sunny.svg",
+  "01n": "/weather-app-with-react/icons/night.svg",
+  "02d": "/weather-app-with-react/icons/day.svg",
+  "02n": "/weather-app-with-react/icons/cloudy-night.svg",
+  "03d": "/weather-app-with-react/icons/cloudy.svg",
+  "03n": "/weather-app-with-react/icons/cloudy.svg",
+  "04d": "/weather-app-with-react/icons/perfect-day.svg",
+  "04n": "/weather-app-with-react/icons/cloudy-night.svg",
+  "09d": "/weather-app-with-react/icons/rain.svg",
+  "09n": "/weather-app-with-react/icons/rain-night.svg",
+  "10d": "/weather-app-with-react/icons/rain.svg",
+  "10n": "/weather-app-with-react/icons/rain-night.svg",
+  "11d": "/weather-app-with-react/icons/storm.svg",
+  "11n": "/weather-app-with-react/icons/storm.svg",
+  "50n": "/weather-app-with-react/icons/haze.png",
+  "50d": "/weather-app-with-react/icons/haze.png"
 };
 function App() {
   const [city, updateCity] = useState();

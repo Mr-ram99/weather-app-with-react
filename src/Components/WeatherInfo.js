@@ -58,11 +58,11 @@ flex-direction:column;
 padding:5px;
 `;
 const InfoIcons = {
-    sunrise:"/icons/sun.png",
-    sunset:"/icons/sun.png",
-    wind:"/icons/wind.png",
-    pressure:"/icons/pressure.png",
-    humidity:"/icons/humidity.png"
+    sunrise:"/weather-app-with-react/icons/sun.png",
+    sunset:"/weather-app-with-react/icons/sun.png",
+    wind:"/weather-app-with-react/icons/wind.png",
+    pressure:"/weather-app-with-react/icons/pressure.png",
+    humidity:"/weather-app-with-react/icons/humidity.png"
 }
 const BackButton = styled.button`
 width:90%;
