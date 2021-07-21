@@ -43,7 +43,7 @@ const CityComponent = (props) => {
     const {updateCity, fetchWeather} =props ;
     return (
         <>
-            <WeatherLogo src="/icons/cloudy.png"></WeatherLogo>
+            <WeatherLogo src="/weather-app-with-react/icons/cloudy.png"></WeatherLogo>
             <CitySelectLabel>Find Weather Of Your City</CitySelectLabel>
             <SearchBox onSubmit={fetchWeather}>
                 <input type="text"  placeholder="Enter City" onChange={e=>updateCity(e.target.value)} autoFocus/>
