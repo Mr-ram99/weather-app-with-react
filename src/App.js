@@ -30,22 +30,22 @@ font-family: 'Varela', sans-serif;
 }
 `;
 export const WeatherIcons = {
-  "01d": "/weather-app-with-react/icons/sunny.svg",
-  "01n": "/weather-app-with-react/icons/night.svg",
-  "02d": "/weather-app-with-react/icons/day.svg",
-  "02n": "/weather-app-with-react/icons/cloudy-night.svg",
-  "03d": "/weather-app-with-react/icons/cloudy.svg",
-  "03n": "/weather-app-with-react/icons/cloudy.svg",
-  "04d": "/weather-app-with-react/icons/perfect-day.svg",
-  "04n": "/weather-app-with-react/icons/cloudy-night.svg",
-  "09d": "/weather-app-with-react/icons/rain.svg",
-  "09n": "/weather-app-with-react/icons/rain-night.svg",
-  "10d": "/weather-app-with-react/icons/rain.svg",
-  "10n": "/weather-app-with-react/icons/rain-night.svg",
-  "11d": "/weather-app-with-react/icons/storm.svg",
-  "11n": "/weather-app-with-react/icons/storm.svg",
-  "50n": "/weather-app-with-react/icons/haze.png",
-  "50d": "/weather-app-with-react/icons/haze.png"
+  "01d": "/weather-app-with-react/blob/gh-pages/icons/sunny.svg",
+  "01n": "/weather-app-with-react/blob/gh-pages/icons/night.svg",
+  "02d": "/weather-app-with-react/blob/gh-pages/icons/day.svg",
+  "02n": "/weather-app-with-react/blob/gh-pages/icons/cloudy-night.svg",
+  "03d": "/weather-app-with-react/blob/gh-pages/icons/cloudy.svg",
+  "03n": "/weather-app-with-react/blob/gh-pages/icons/cloudy.svg",
+  "04d": "/weather-app-with-react/blob/gh-pages/icons/perfect-day.svg",
+  "04n": "/weather-app-with-react/blob/gh-pages/icons/cloudy-night.svg",
+  "09d": "/weather-app-with-react/blob/gh-pages/icons/rain.svg",
+  "09n": "/weather-app-with-react/blob/gh-pages/icons/rain-night.svg",
+  "10d": "/weather-app-with-react/blob/gh-pages/icons/rain.svg",
+  "10n": "/weather-app-with-react/blob/gh-pages/icons/rain-night.svg",
+  "11d": "/weather-app-with-react/blob/gh-pages/icons/storm.svg",
+  "11n": "/weather-app-with-react/blob/gh-pages/icons/storm.svg",
+  "50n": "/weather-app-with-react/blob/gh-pages/icons/haze.png",
+  "50d": "/weather-app-with-react/blob/gh-pages/icons/haze.png"
 };
 function App() {
   const [city, updateCity] = useState();
