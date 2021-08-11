@@ -28,6 +28,9 @@ font-family: 'Varela', sans-serif;
     font-weight:bold;
     
 }
+ & input:hover{
+ outline:none;
+ }
 & button {
     padding:5px 15px;
     background:#8380b6;
